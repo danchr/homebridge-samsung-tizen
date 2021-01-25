@@ -43,6 +43,20 @@
                         "type": "string"
                     }
                 },
+                "VOLUME_UP": {
+                    "type": "array",
+                    "title": "Command",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "VOLUME_DOWN": {
+                    "type": "array",
+                    "title": "Command",
+                    "items": {
+                        "type": "string"
+                    }
+                },
                 "ARROW_UP": {
                     "type": "array",
                     "title": "Command",
@@ -93,6 +107,13 @@
                     }
                 },
                 "PLAY_PAUSE": {
+                    "type": "array",
+                    "title": "Command",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "TV_HOME": {
                     "type": "array",
                     "title": "Command",
                     "items": {
